@@ -1,0 +1,22 @@
+{
+  "name": "daythree",
+  "version": "1.0.0",
+  "description": "This exercise embeddes function that performs binary search, function that finds missing number in Array and A simple user interface created with HTML and CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imisioluwa/daythree.git"
+  },
+  "author": "Akande Imisioluwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imisioluwa/daythree/issues"
+  },
+  "homepage": "https://github.com/Imisioluwa/daythree#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
